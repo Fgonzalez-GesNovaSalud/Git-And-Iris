@@ -14,3 +14,12 @@
 
 Documentación de Git for Shared Develop Enviroment en Open Exange [5](https://openexchange.intersystems.com/package/Git-for-Shared-Development-Environments) 
 
+Instalar Git Source Control
+```
+zpm "install git-source-control"
+```
+
+Configurar el Namespace
+```
+d ##class(SourceControl.Git.API).Configure()
+```
