@@ -12,7 +12,7 @@
 
 ## Source Control
 
-Documentación de Git for Shared Develop Enviroment en Open Exange [5](https://openexchange.intersystems.com/package/Git-for-Shared-Development-Environments) 
+Documentación de Git for Shared Develop Enviroment en Open Exange [5](https://openexchange.intersystems.com/package/Git-for-Shared-Development-Environments) y en página de Intersystem Iris [6](https://community.intersystems.com/post/git-shared-development-environments) 
 
 Instalar Git Source Control
 ```
