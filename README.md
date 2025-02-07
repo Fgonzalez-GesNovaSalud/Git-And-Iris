@@ -38,7 +38,7 @@ zpm "install git-source-control"
 
 Configurar el Namespace
 ```
-d ##class(SourceControl.Git.API).Configure()
+do ##class(SourceControl.Git.API).Configure()
 ```
 
 
