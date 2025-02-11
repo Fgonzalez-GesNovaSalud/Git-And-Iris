@@ -39,7 +39,7 @@ repo -n registry -r -url https://pm.community.intersystems.com
 
 ## Control de versiones con Git
 
-Documentación de Git for Shared Develop Enviroment en Open Exange [O](https://openexchange.intersystems.com/package/Git-for-Shared-Development-Environments) y en página de Intersystem Iris [D](https://community.intersystems.com/post/git-shared-development-environments) y video de referencia [V](https://youtu.be/elVQEU9MitE?t=387) 
+Documentación de Git for Shared Develop Enviroment  [O](https://openexchange.intersystems.com/package/Git-for-Shared-Development-Environments)  [D](https://community.intersystems.com/post/git-shared-development-environments) [V](https://youtu.be/elVQEU9MitE?t=387) 
 
 Instala Git Source Control
 ```
