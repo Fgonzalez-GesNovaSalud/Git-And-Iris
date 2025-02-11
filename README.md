@@ -20,7 +20,7 @@ Para instalar Intersystems package manager debes:
 
 1.- Descarga la última varsión de zpm e importar el archivo dentro de "Clases" en el portal de gestión y compilar.
 
-2.- Entrar desde el terminal de tu Namespace y entrar a zpm.
+2.- Entrar desde el terminal de tu Namespace a zpm.
 ```
 zpm 
 ```
@@ -31,7 +31,7 @@ repo -list-modules -n registry
 ```
 
 
-3.- Instala las librerias.
+3.- Instala las librerias de ser necesario.
 ```
 repo -n registry -r -url https://pm.community.intersystems.com
 ```
