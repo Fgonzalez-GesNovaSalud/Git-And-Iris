@@ -18,9 +18,9 @@
 
 Para instalar Intersystems package manager debes:
 
-1.- Descarga la última varsión de zpm desde OpenExange e importar el archivo dentro de "Clases" en el portal de gestión y compilar.
+1.- Descarga la última varsión de zpm desde OpenExange e importa el archivo dentro de "Clases" en el portal de gestión y compila.
 
-2.- Entrar desde el terminal de tu Namespace a zpm.
+2.- Entra desde el terminal de tu Namespace a zpm.
 ```
 zpm 
 ```
@@ -41,12 +41,12 @@ repo -n registry -r -url https://pm.community.intersystems.com
 
 Documentación de Git for Shared Develop Enviroment en Open Exange [O](https://openexchange.intersystems.com/package/Git-for-Shared-Development-Environments) y en página de Intersystem Iris [D](https://community.intersystems.com/post/git-shared-development-environments) y video de referencia [V](https://youtu.be/elVQEU9MitE?t=387) 
 
-Instalar Git Source Control
+Instala Git Source Control
 ```
 zpm "install git-source-control"
 ```
 
-Configurar el Namespace
+Configura el Namespace
 ```
 do ##class(SourceControl.Git.API).Configure()
 ```
