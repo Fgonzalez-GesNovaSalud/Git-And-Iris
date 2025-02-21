@@ -10,7 +10,7 @@
 - Git [D](https://git-scm.com/downloads/win)
 - OpenSSH
   - Habilitar OpenSSH en Windows [D](https://soporte.donweb.com/hc/es/articles/19426302601364--C%C3%B3mo-habilitar-el-cliente-OpenSSH-en-Windows-10) 
-  - Crear clave pública SSH [D](https://git-scm.com/book/es/v2/Git-en-el-Servidor-Generando-tu-clave-p%C3%BAblica-SSH)
+  - Crear clave pública SSH [D](https://docs.github.com/es/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent)
 - InterSystems package manager [O](https://openexchange.intersystems.com/package/InterSystems-Package-Manager-1) [V](https://www.youtube.com/watch?v=UzrG91_swLM&list=PLKb2cBVphNQRcmxt4LtYDyLJEPfF4X4-4&index=7&t=615s)
 
 
