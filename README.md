@@ -51,4 +51,24 @@ Configura el Namespace
 do ##class(SourceControl.Git.API).Configure()
 ```
 
+Desde la terminal en tu repositorio local configura con tu directorio
+```
+git config --global --add safe.directory C:/InterSystems/IRISHealth/mgr/repo/DEMO
+```
+
+Añade archivos en tu directorio (repositorio local) 
+```
+git add .
+```
+
+Genera un comit on untexto representativo
+```
+git commit -m "hola mundo"
+```
+
+
+
+
+
+
 
