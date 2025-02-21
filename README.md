@@ -66,7 +66,12 @@ Genera un comit on untexto representativo
 git commit -m "hola mundo"
 ```
 
+```
+git fetch
 
+git pull origin master --allow-unrelated-histories
+
+```
 
 
 
