@@ -18,6 +18,28 @@ Para instalar Intersystems package manager debes:
 
 ## Control de versiones con Git
 
+1.- Instala Git Source Control
+
+2.- Configura el Namespace
+
+<img src="https://github.com/Fgonzalez-GesNovaSalud/Git-And-Iris/blob/help/3%20-%20Instalando%20y%20configurando%20git-source-control.gif" alt="Pegar ID" width="550" height="300">
+
+<img src="https://github.com/Fgonzalez-GesNovaSalud/Git-And-Iris/blob/help/5%20-%20Ejemplo%20commit%20and%20gitui.gif" alt="Pegar ID" width="550" height="300">
+
+<img src="https://github.com/Fgonzalez-GesNovaSalud/Git-And-Iris/blob/help/6%20-%20settings%20and%20ssh.gif" alt="Pegar ID" width="550" height="300">
+
+
+3.- Desde la terminal en tu repositorio local configura con tu directorio
+
+4.- Añade archivos en tu directorio (repositorio local)
+
+5.- Genera un commit con un texto representativo
+
+6.- Conecta tu repositorio local al repositorio remoto 
+
+<img src="https://github.com/Fgonzalez-GesNovaSalud/Git-And-Iris/blob/help/7%20-%20Guardando%20workspace.gif" alt="Pegar ID" width="550" height="300">
+
+<img src="https://github.com/Fgonzalez-GesNovaSalud/Git-And-Iris/blob/help/8%20-%20Subiendo%20archivos%20a%20repositorio%20remoto.gif" alt="Pegar ID" width="550" height="300">
 
 
 
