@@ -31,7 +31,9 @@ Para instalar Intersystems package manager debes:
 
 5.- Genera un commit con un texto representativo
 
+
 Crea commit, add, y visualiza en Git UI
+
 <img src="https://github.com/Fgonzalez-GesNovaSalud/Git-And-Iris/blob/help/5%20-%20Ejemplo%20commit%20and%20gitui.gif" alt="Pegar ID" width="550" height="300">
 
 
@@ -41,13 +43,17 @@ Crea commit, add, y visualiza en Git UI
 
 6.- Conecta tu repositorio local al repositorio remoto 
 
+
 Visualiza las configuraciones y añade tu clave SSH
+
 <img src="https://github.com/Fgonzalez-GesNovaSalud/Git-And-Iris/blob/help/6%20-%20settings%20and%20ssh.gif" alt="Pegar ID" width="550" height="300">
 
 Guarda tu Workspace en tu repositorio local
+
 <img src="https://github.com/Fgonzalez-GesNovaSalud/Git-And-Iris/blob/help/7%20-%20Guardando%20workspace.gif" alt="Pegar ID" width="550" height="300">
 
 Une repositorio local al remoto
+
 <img src="https://github.com/Fgonzalez-GesNovaSalud/Git-And-Iris/blob/help/8%20-%20Subiendo%20archivos%20a%20repositorio%20remoto.gif" alt="Pegar ID" width="550" height="300">
 
 
