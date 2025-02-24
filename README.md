@@ -69,6 +69,8 @@ git commit -m "hola mundo"
 ```
 git fetch
 
+git branch --set-upstream-to=origin/main master
+
 git pull origin master --allow-unrelated-histories
 
 ```
