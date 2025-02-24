@@ -79,6 +79,6 @@ git pull origin <branch-name> --allow-unrelated-histories
 ```
 
 
-En caso de necesitar mayor ayuda ve el [paso a paso](https://github.com/Fgonzalez-GesNovaSalud/Git-And-Iris/blob/help/README.md)
+En caso de necesitar mayor apoyo vea el [paso a paso](https://github.com/Fgonzalez-GesNovaSalud/Git-And-Iris/blob/help/README.md)
 
 
