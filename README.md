@@ -68,11 +68,13 @@ git commit -m "hola mundo"
 
 6.- Conecta tu repositorio local al repositorio remoto 
 ```
+git remote add origin <dirección-ssh-repositorio-remoto>
+
 git fetch
 
 git branch --set-upstream-to=origin/main master
 
-git pull origin master --allow-unrelated-histories
+git pull origin <branch-name> --allow-unrelated-histories
 
 ```
 
