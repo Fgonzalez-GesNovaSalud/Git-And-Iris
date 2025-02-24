@@ -31,7 +31,7 @@ repo -list-modules -n registry
 ```
 
 
-3.- Instala las librerias de ser necesario.
+4.- Instala las librerias de ser necesario.
 ```
 repo -n registry -r -url https://pm.community.intersystems.com
 ```
@@ -41,31 +41,32 @@ repo -n registry -r -url https://pm.community.intersystems.com
 
 Documentación de Git for Shared Develop Enviroment  [O](https://openexchange.intersystems.com/package/Git-for-Shared-Development-Environments)  [D](https://community.intersystems.com/post/git-shared-development-environments) [V](https://youtu.be/elVQEU9MitE?t=387) 
 
-Instala Git Source Control
+1.- Instala Git Source Control
 ```
 zpm "install git-source-control"
 ```
 
-Configura el Namespace
+2.- Configura el Namespace
 ```
 do ##class(SourceControl.Git.API).Configure()
 ```
 
-Desde la terminal en tu repositorio local configura con tu directorio
+3.- Desde la terminal en tu repositorio local configura con tu directorio
 ```
 git config --global --add safe.directory C:/InterSystems/IRISHealth/mgr/repo/DEMO
 ```
 
-Añade archivos en tu directorio (repositorio local) 
+4.- Añade archivos en tu directorio (repositorio local) 
 ```
 git add .
 ```
 
-Genera un comit on untexto representativo
+5.- Genera un commit con un texto representativo
 ```
 git commit -m "hola mundo"
 ```
 
+6.- Conecta tu repositorio local al repositorio remoto 
 ```
 git fetch
 
